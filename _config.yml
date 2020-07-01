@@ -51,14 +51,16 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: React
+    web_url: https://reactjs.org/
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
 
-  - name: Web design
+  - name: Android
+    web_url: https://www.android.com/
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/android/android.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Distributed Systems
+    web_url: https://amturing.acm.org/award_winners/lamport_1205376.cfm
+    image_url: https://www.bing.com/images/blob?bcid=SMyMHU6F64EBEh3jpsJ.iTboKAtc.....zw
 
 theme: jekyll-theme-tactile
