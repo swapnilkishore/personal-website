@@ -63,4 +63,12 @@ topics:
     web_url: https://amturing.acm.org/award_winners/lamport_1205376.cfm
     image_url: https://www.bing.com/images/blob?bcid=SMyMHU6F64EBEh3jpsJ.iTboKAtc.....zw
 
+  - name: AWS 
+    web_url: https://aws.amazon.com/what-is-aws/
+    image_url: https://blog.scottlogic.com/dsmith/assets/featured/aws-logo.png
+
+  - name: Reactor/Reactive Streams
+    web_url: https://projectreactor.io/
+    image_url: https://avatars1.githubusercontent.com/u/4201559?s=400&v=4
+
 theme: jekyll-theme-tactile
